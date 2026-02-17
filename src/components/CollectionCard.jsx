@@ -1,5 +1,5 @@
 import { useDispatch } from 'react-redux';
-import { removeCollection, removeToast } from '../redux/features/collectionSlice';
+import { removeCollection, removeToast } from '../redux/Features/collectionSlice.js';
 
 const CollectionCard = ({item}) => {
 
