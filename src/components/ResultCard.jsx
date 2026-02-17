@@ -1,5 +1,5 @@
 import { useDispatch } from 'react-redux'
-import { addCollection, addedToast } from '../redux/features/collectionSlice'
+import { addCollection, addedToast } from '../redux/Features/collectionSlice'
 
 const ResultCard = ({ item }) => {
 
